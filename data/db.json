@@ -1,0 +1,126 @@
+{
+  "tarifler": [
+    {
+      "id": "1",
+      "baslik": "Halka Kebabı",
+      "aciklama": "4-6 kişilik, 20dk Hazırlık, 1 saat 15dk Pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "2",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "4-6 kişilik, 25dk Hazırlık, 25dk Pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karnıyarık.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "3",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "6-8 kişilik, 45dk Hazırlık, 25dk Pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabı.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "id": "4",
+      "baslik": "Halka Kebabı",
+      "aciklama": "4-6 kişilik, 20dk Hazırlık, 1 saat 15dk Pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "5",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "4-6 kişilik, 25dk Hazırlık, 25dk Pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karnıyarık.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "6",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "6-8 kişilik, 45dk Hazırlık, 25dk Pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabı.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "baslik": "Damla Çikolatalı Cookie",
+      "aciklama": "8-10 Kişilik, 10dk Hazırlık, 10dk Pişirme",
+      "malzemeler": [
+        "100 gr tereyağı veya margarin",
+        "1 adet yumurta",
+        "1 su bardağı damla çikolata",
+        "1 su bardağı pudra şekeri",
+        "2,5 su bardağı un",
+        "1 paket vanilya",
+        "1 paket kabartma tozu"
+      ],
+      "hazirlanisi": "Oda ısısında yumuşamış margarini ve pudra şekerini iyice karıştıralım. Kullandığınız margarin yada tereyağı oda sıcaklığında kullanırsanız, karıştırmanız çok daha kolay olacaktır.\nYumurtayı ekleyip tekrar karıştıralım.\nUn, kabartma tozu ve vanilyayı eleyerek ilave edip yumuşak kıvam elde edinceye kadar yoğuralım. Unun cinsinden, kalitesinden yada markasında dolayı un miktarı çok az değişiklik gösterebilir. Her zaman kontrollü olmanız da fayda var.\nEn son damla çikolatayı ekleyip nazikçe yoğuralım. Çok fazla yoğurup elinizin ısısı ile çikolataları eritmemeye dikkat etmelisiniz.\nYoğrulan hamurdan ceviz büyüklüğünde parçalar alınıp elde yuvarlayıp yağlı kağıt serili tepsiye dizelim.\nÖnceden ısıtılmış fırında 180 derecede yaklaşık 10-15 dakika kadar kontrollü bir şekilde pişirelim.",
+      "resim": "damla-cikolatali-kurabiye.jpg",
+      "url": "https://www.nefisyemektarifleri.com/damla-cikolatali-kurabiye-favorim/",
+      "id": "6b9i85x"
+    },
+    {
+      "baslik": "Muzlu cocostar",
+      "aciklama": "6-8 Kişilik 5dk Hazırlık, Pişirme yok",
+      "malzemeler": [
+        "1,5 çay bardağı hindistan ceviz",
+        "1 adet muz",
+        "Yarım çay bardağı çekilmiş fındık",
+        "1 yemek kaşığı kakao",
+        "Üstü için;  80 gram çikolata (Benmari usulü eritilmiş)"
+      ],
+      "hazirlanisi": "Tüm malzemeleri yoğurma kabına alalım ve ezip karıştıralım.\nKarıştırdıktan sonra şekiller verelim ve eritilmiş çikolataya bandırıp tabağa dizelim.\nÜzerini diledigimiz gibi süsleyelim ben fıstık kullandım dolaba koyalım ve donmasını bekleyelim vee bu kadar afiyet olsun. 🫶",
+      "resim": "muzlu-cocostar.jpg",
+      "url": "https://www.nefisyemektarifleri.com/muzlu-cocostar-11453557/",
+      "id": "wDy0YgT"
+    }
+  ]
+}
